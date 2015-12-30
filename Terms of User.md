@@ -1,14 +1,14 @@
 Terms and Conditions ("Terms")
 
-Last updated: November 30, 2015
+Last updated: December 30th, 2015
 
-Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the Analytics for Instagram mobile application (the "Application") operated by Edward Marks ("us", "we", or "our").
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the Command for Instagram mobile application (the "Application") operated by Zachary Shakked ("us", "we", or "our").
 
 Your access to and use of the Application is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who wish to access or use the Application.
 
 By accessing or using the Application you agree to be bound by these Terms. If you disagree with any part of the terms then you do not have permission to access the Application.
 
-The Application is licensed, not sold, to You for use only under the terms of this license. The Analytics for Instagram reserves all rights not expressly granted to You.
+The Application is licensed, not sold, to You for use only under the terms of this license. The Command for Instagram reserves all rights not expressly granted to You.
 
 Acknowledgement
 
@@ -30,7 +30,7 @@ Intellectual Property Rights
 
 We and You acknowledge that, in the event of any third party claim that the Application or Your possession and use of that Application infringes that third party's intellectual property rights, We, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
 
-The Application and its original content, features and functionality are and will remain the exclusive property of Analytics for Instagram and its licensors. The Application is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Analytics for Instagram.
+The Application and its original content, features and functionality are and will remain the exclusive property of Command for Instagram and its licensors. The Application is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Command for Instagram.
 
 Legal Compliance
 
@@ -45,11 +45,11 @@ Consent to Use of Data
 You agree that we may collect and use technical data and related information, including but not limited to technical information about Your device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to You (if any) related to the Application. We may use this information, as long as it is in a form that does not personally identify You, to improve its products or to provide services or technologies to You.
 Links To Other Web Sites
 
-Our Application may contain links to third party web sites or services that are not owned or controlled by Analytics for Instagram.
+Our Application may contain links to third party web sites or services that are not owned or controlled by Command for Instagram.
 
-Analytics for Instagram has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
+Command for Instagram has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
 
-You acknowledge and agree that Analytics for Instagram shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third party web sites or services.
+You acknowledge and agree that Command for Instagram shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third party web sites or services.
 
 We strongly advise you to read the terms and conditions and privacy policies of any third party web sites or services that you visit.
 
@@ -61,7 +61,7 @@ All provisions of the Terms which by their nature should survive termination sha
 
 Indemnification
 
-You agree to defend, indemnify and hold harmless Analytics for Instagram and its licensee and licensors, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the Application, or b) a breach of these Terms.
+You agree to defend, indemnify and hold harmless Command for Instagram and its licensee and licensors, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the Application, or b) a breach of these Terms.
 
 No Warranty
 
@@ -69,7 +69,7 @@ You expressly acknowledge and agree that use of the licensed service is at your 
 
 Limitation Of Liability
 
-In no event shall Analytics for Instagram, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Application; (ii) any conduct or content of any third party on the Application; (iii) any content obtained from the Application; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
+In no event shall Command for Instagram, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Application; (ii) any conduct or content of any third party on the Application; (iii) any content obtained from the Application; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
 
 Availability, Errors and Inaccuracies
 
@@ -81,7 +81,7 @@ Disclaimer
 
 Your use of the Application is at your sole risk. The Application is provided on an "AS IS" and "AS AVAILABLE" basis. The Application is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
 
-Analytics for Instagram its subsidiaries, affiliates, and its licensors do not warrant that a) the Application will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Application is free of viruses or other harmful components; or d) the results of using the Application will meet your requirements.
+Command for Instagram its subsidiaries, affiliates, and its licensors do not warrant that a) the Application will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Application is free of viruses or other harmful components; or d) the results of using the Application will meet your requirements.
 
 Exclusions
 
