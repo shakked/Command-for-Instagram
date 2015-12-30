@@ -1,33 +1,11 @@
 #Privacy Policy
-This policy is effective December 15th, 2015
-Last revised: December 15th, 2015
+This policy is effective December 30th, 2015
+Last revised: December 30th, 2015
 
-This privacy policy governs your use of the software application **Command Center for Instagram - Analytics on Posts, Likes, Comments & Followers** for mobile devices that was created by Zachary Shakked.
+This privacy policy governs your use of the software application **Command for Instagram - Analytics on Posts, Likes, Comments & Followers** for mobile devices that was created by Zachary Shakked.
 
-Command Center for Instagram is an Instagram analytics tool to see very insightful analytics on as many accounts as you want. You can add your own accounts and research other accounts to optimize and grow as much as possible. Here are some of the main features of the Application:
+Command Center for Instagram is an Instagram analytics tool to see very insightful analytics on as many accounts as you want. You can add your own accounts and research other accounts to optimize and grow as much as possible.
 
-• **FOLLOW/UNFOLLOW** - look through the people you follow and see if they are following you back or not. If they aren't following you back, you can unfollow them
-
-• **HASHTAG ANALYSIS** - see what hashtags are giving you the highest numbers of likes, comments as well as average likes and average comments
-
-• **UNREQUITED FOLLOWERS** - see those pesky users who aren't following you back and unfollow them
-
-• **ENGAGEMENT** - find out who your best followers are. You can see who has liked and commented on the most pictures. You can also see which specific posts that have been liked and commented on by a given person
-
-• **POSTS BY HOUR** - see what hour of the day you get the most likes/comments on your pictures. See all of your posts made during specific hours of the day
-
-• **POSTS BY WEEKDAY** - see which day of the week you tend to get the most likes and comments. You can also see all your posts on a certain day of the week
-
-• **POSTS BY WEEK** - find out what your best week on Instagram was! See how many likes you average per week. You can also see cool graphs on the growth of your account by week
-
-• **MOST LIKED** - see your posts in order of the most liked pictures
-
-• **LEAST LIKED** - see your posts in order of the least liked pictures. It might be a little embarrassing but it's still cool!
-
-• **MOST COMMENTED** - see your posts in order of the most commented pictures
-
-• **LEAST COMMENTED** - see your posts in order of the least commented pictures
- 
 ##What information does the Application obtain and how is it used?
 
 The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
