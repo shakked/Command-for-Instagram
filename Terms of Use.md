@@ -2,7 +2,7 @@
 
 Last updated: December 30th, 2015
 
-Please read these Terms and Conditions carefully before using the **Command for Instagram - Analytics on Posts, Likes, Comments & Followers** mobile application operated by Zachary Shakked.
+Please read these Terms and Conditions carefully before using the **Command for Instagram - Follower Stats & Management, Posts, Likes & Comments Analytics** mobile application operated by Zachary Shakked.
 
 Your access to and use of the Application is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who wish to access or use the Application.
 
