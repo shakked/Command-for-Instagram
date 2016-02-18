@@ -1,6 +1,6 @@
 #Terms and Conditions
 
-Last updated: December 30th, 2015
+Last updated: February 18, 2016
 
 Please read these Terms and Conditions carefully before using the **Command for Instagram - Follower Stats & Management, Posts, Likes & Comments Analytics** mobile application operated by Zachary Shakked.
 
