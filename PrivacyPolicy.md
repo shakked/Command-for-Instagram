@@ -1,8 +1,8 @@
 #Privacy Policy
 This policy is effective December 30th, 2015
-Last revised: December 30th, 2015
+Last revised: February 18th, 2016
 
-This privacy policy governs your use of the software application **Command for Instagram - Analytics on Posts, Likes, Comments & Followers** for mobile devices that was created by Zachary Shakked.
+This privacy policy governs your use of the software application **Command for Instagram - Follower Stats & Management, Posts, Likes & Comments Analytics** for mobile devices that was created by Zachary Shakked.
 
 Command Center for Instagram is an Instagram analytics tool to see very insightful analytics on as many accounts as you want. You can add your own accounts and research other accounts to optimize and grow as much as possible.
 
