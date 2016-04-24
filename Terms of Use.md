@@ -1,6 +1,6 @@
 #Terms and Conditions
 
-Last updated: February 18, 2016
+Last updated: April 24, 2016
 
 Please read these Terms and Conditions carefully before using the **Command for Instagram - Follower Stats & Management, Posts, Likes & Comments Analytics** mobile application operated by Zachary Shakked.
 
@@ -43,7 +43,6 @@ We and You acknowledge and agree that Apple, and Apple's subsidiaries, are third
 ##Consent to Use of Data
 
 You agree that we may collect and use technical data and related information, including but not limited to technical information about Your device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to You (if any) related to the Application. We may use this information, as long as it is in a form that does not personally identify You, to improve its products or to provide services or technologies to You.
-Links To Other Web Sites
 
 Our Application may contain links to third party web sites or services that are not owned or controlled by Command for Instagram.
 
