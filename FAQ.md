@@ -23,12 +23,14 @@ This likely means you have an invalid access token. In other words, you need to 
 2. Tap 'Delete Account'
 3. Select the account that you are unable to see stats for
 4. Re add the account
+
 NOTE: If you are using the tracking feature, you may have to retrack some accounts. 
 
 ##I purchased features in an older version and no longer have access to them in the newer version?
 
 1. From the analyitcs dashboard, go to the Settings
 2. Tap 'Restore Purchases'
+
 NOTE: Ensure you are logged into the same iTunes account that bought the in app purchases with
 
 ##What does 'Contribute to Global Analytics' mean in the Settings?
