@@ -1,6 +1,17 @@
 #Analytics Pro
 This document explains all the features of an 'Analytics Pro' subscription which currentlys costs $4.99/month.
 
+__Features__
+* [Searching](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#searching)
+* [Top Hashtags and Filters](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#top-hashtags-and-filters)
+* [Following Tracker](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#following-tracker)
+* [Ghost Followers](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#ghost-followers)
+* [Secret Admirers](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#secret-admirers)
+* [Global Best Time to Post](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#global-best-time-to-post)
+* [Global Top Filters](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#global-top-filters)
+* [Global Top Hashtags](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#global-top-hashtags)
+* [Exporter](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#exporter)
+
 ##Searching
 The searching feature lets you look up public Instagram accounts and see analytics on their posts. In the past, it was possible to see private accounts and informaiton about their followers as well. On June 1st, 2016, Instagram revised their API so this is no longer possible. However, the searching feature still provides great functionality:
 * View all of the following information about a user's posts:
@@ -48,7 +59,7 @@ See followers who haven't engaged with any of your photos
 ##Secret Admirers
 See users who have engaged with your photos but haven't followed you
 
-##Global Beest Time
+##Global Best Time
 We analyzed data on thousands of Instagram accounts to build this feature. It lets you see the best time to post in over 60 different countries and 110 different timezones. This is very useful if you have an international audience.
 
 ##Global Top Filters
