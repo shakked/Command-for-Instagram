@@ -1,4 +1,4 @@
-#Analytic Pro
+#Analytics Pro
 This document explains all the features of an 'Analytics Pro' subscription which currentlys costs $4.99/month.
 
 ##Searching
