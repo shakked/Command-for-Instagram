@@ -1,5 +1,5 @@
 #Analytics Pro
-This document explains all the features of an 'Analytics Pro' subscription which currentlys costs $4.99/month. Throughout the document I will reference a screencast I made for Command. In this screencast, you can see how specific features work. Here is the full [screencast](https://www.youtube.com/watch?v=4yp_YWUqtPU)
+This document explains all the features of an 'Analytics Pro' subscription which currentlys costs $4.99/month. Throughout the document I will reference a screencast I made for Command. In this screencast, you can see how specific features work. [Full Screencast](https://www.youtube.com/watch?v=4yp_YWUqtPU)
 
 __Features__
 * [Searching](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#searching)
