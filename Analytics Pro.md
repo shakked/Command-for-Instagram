@@ -59,7 +59,7 @@ See followers who haven't engaged with any of your photos
 ##Secret Admirers
 See users who have engaged with your photos but haven't followed you
 
-##Global Best Time
+##Global Best Time to Post
 We analyzed data on thousands of Instagram accounts to build this feature. It lets you see the best time to post in over 60 different countries and 110 different timezones. This is very useful if you have an international audience.
 
 ##Global Top Filters
