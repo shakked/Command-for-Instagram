@@ -1,7 +1,8 @@
 # Command for Instagram
-Useful Links:
+
 * [iTunes](https://itunes.apple.com/us/app/command-for-instagram-follower/id1050497051?mt=8)
 * [Analytics Pro Features](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md)
+* [Screencast](https://www.youtube.com/watch?v=4yp_YWUqtPU)
 * [Privacy Policy](https://github.com/shakked/Command-Center/blob/master/PrivacyPolicy.md)
 * [Terms of Use](https://github.com/shakked/Command-Center/blob/master/Terms%20of%20Use.md)
 
@@ -22,7 +23,7 @@ Command for Instagram is an advanced Instagram analytics and tracking tool that 
 - Best Months
 - Best Years
 
-USER STATS
+###USER STATS
 - Unrequited Followers
 - Fans
 - Users Followed
@@ -36,7 +37,7 @@ USER STATS
 - Earliest Followers
 - Newest Followers
 
-ENGAGEMENT
+###ENGAGEMENT
 - Best Followers
 - Fans
 - Top Likers
@@ -47,7 +48,7 @@ ENGAGEMENT
 - Secret Admirers
 - My Favorite Users
 
-GLOBAL STATS
+###GLOBAL STATS
 - Global Best Time by Country and Timezone
 - Global Top Filters by Country and Timezone
 - Global Top Hashtags by Timezone 
