@@ -15,7 +15,7 @@ __Features__
 ##Searching
 [Searching Screencast](https://youtu.be/4yp_YWUqtPU?t=21m28s)
 
-The searching feature lets you look up public Instagram accounts and see analytics on their posts. In the past, it was possible to see private accounts and informaiton about their followers as well. On June 1st, 2016, Instagram revised their API so this is no longer possible. However, the searching feature still provides great functionality:
+The searching feature lets you look up public Instagram accounts and see analytics on their posts. In the past, it was possible to see private accounts and information about their followers as well. On June 1st, 2016, Instagram revised their API so this is no longer possible. However, the searching feature still provides great functionality:
 * View all of the following information about a user's posts:
   * When to Post (the user's personalized best time to post)
   * Graphs of their posts over time (Likes/Comments per day, week, month, year)
@@ -52,7 +52,7 @@ The searching feature lets you look up public Instagram accounts and see analyti
 ##Top Hashtags and Filters
 [Top Hashtags and Filters Screencast](https://youtu.be/4yp_YWUqtPU?t=4m5s)
 
-This feature lets you see which filters and hashtags are getting you the most likes and comments.
+This feature lets you see which filters and hashtags are getting you the most likes and comments. That a business cannot see their hashtag or filter performance within Instagram is troubling. That's why I created this feature--so businesses could see how their hashtags and filters are doing over time.
 
 ##Following Tracker
 [Following Tracker Screencast](https://youtu.be/4yp_YWUqtPU?t=11m59s)
