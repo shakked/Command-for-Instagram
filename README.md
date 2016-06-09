@@ -3,6 +3,7 @@
 * [iTunes](https://itunes.apple.com/us/app/command-for-instagram-follower/id1050497051?mt=8)
 * [Analytics Pro Features](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md)
 * [Screencast](https://www.youtube.com/watch?v=4yp_YWUqtPU)
+* [FAQ](https://github.com/shakked/Command-for-Instagram/blob/master/FAQ.md)
 * [Privacy Policy](https://github.com/shakked/Command-Center/blob/master/PrivacyPolicy.md)
 * [Terms of Use](https://github.com/shakked/Command-Center/blob/master/Terms%20of%20Use.md)
 
