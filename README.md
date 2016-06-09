@@ -1,4 +1,6 @@
 # Command for Instagram
+![Command Logo](http://i.imgur.com/rHJwNE7.png?1 "Logo Title Text 1")
+
 ###Useful Links
 * [iTunes](https://itunes.apple.com/us/app/command-for-instagram-follower/id1050497051?mt=8)
 * [Analytics Pro Features](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md)
