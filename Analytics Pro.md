@@ -13,6 +13,7 @@ __Features__
 * [Exporter](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#exporter)
 
 ##Searching
+[Searching Screencast](https://youtu.be/4yp_YWUqtPU?t=21m28s)
 The searching feature lets you look up public Instagram accounts and see analytics on their posts. In the past, it was possible to see private accounts and informaiton about their followers as well. On June 1st, 2016, Instagram revised their API so this is no longer possible. However, the searching feature still provides great functionality:
 * View all of the following information about a user's posts:
   * When to Post (the user's personalized best time to post)
@@ -48,27 +49,35 @@ The searching feature lets you look up public Instagram accounts and see analyti
   * Posts by Year Data
 
 ##Top Hashtags and Filters
+[Top Hashtags and Filters Screencast](https://youtu.be/4yp_YWUqtPU?t=4m5s)
 This feature lets you see which filters and hashtags are getting you the most likes and comments.
 
 ##Following Tracker
+[Following Tracker Screencast](https://youtu.be/4yp_YWUqtPU?t=11m59s)
 Track who you follow and unfollow
 
 ##Ghost Followers
+[Ghost Followers Screencast](https://youtu.be/4yp_YWUqtPU?t=10m45s)
 See followers who haven't engaged with any of your photos
 
 ##Secret Admirers
+[Secret Admirers Screencast](https://youtu.be/4yp_YWUqtPU?t=11m18s)
 See users who have engaged with your photos but haven't followed you
 
 ##Global Best Time to Post
+[Global Best Time to Post Screencast](https://youtu.be/4yp_YWUqtPU?t=14m2s)
 We analyzed data on thousands of Instagram accounts to build this feature. It lets you see the best time to post in over 60 different countries and 110 different timezones. This is very useful if you have an international audience.
 
 ##Global Top Filters
+[Global Top Filters Screencast](https://youtu.be/4yp_YWUqtPU?t=16m22s)
 We analyzed data on thousands of Instagram accounts to build this feature. It lets you see the top filters in over 60 different countries and 110 different timezones. 
 
 ##Global Top Hashtags
+[Global Top Hashtags Screencast](https://youtu.be/4yp_YWUqtPU?t=17m2s)
 See the top hashtags in over 60 different countries and 110 different timezones.
 
 ##Exporter
+[Exporter Screencast](https://youtu.be/4yp_YWUqtPU?t=19m22s)
 Use this feature to export all of the following analytics to .csv files for analysis:
  * Posts Data
  * Hashtags Data
@@ -89,6 +98,7 @@ Use this feature to export all of the following analytics to .csv files for anal
  * Gained Followings Data
  
 ##Tracking
+[Tracking Screencast](https://youtu.be/4yp_YWUqtPU?t=19m54s)
 Track up to 50 accounts with this feature. Not only can you track your own accounts, you can track any public account. See hourly stats on the following:
 * Followers - total number of followers
 * Change in Followers - how many followers you are gaining/losing every hour
