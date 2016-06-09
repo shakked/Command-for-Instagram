@@ -1,12 +1,13 @@
 # Command for Instagram
-
+###Useful Links
 * [iTunes](https://itunes.apple.com/us/app/command-for-instagram-follower/id1050497051?mt=8)
 * [Analytics Pro Features](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md)
 * [Screencast](https://www.youtube.com/watch?v=4yp_YWUqtPU)
 * [Privacy Policy](https://github.com/shakked/Command-Center/blob/master/PrivacyPolicy.md)
 * [Terms of Use](https://github.com/shakked/Command-Center/blob/master/Terms%20of%20Use.md)
 
-Command for Instagram is an advanced Instagram analytics and tracking tool that empowers you to see very insightful stats on unlimited accounts. You can add your own accounts and research others to optimize and grow as much as possible. With over 5000 users, hundreds of 100k+ follower accounts, and dozens of celebrity users, we think you will really enjoy what this app has to offer. Here are some of our favorite features:
+###Summary
+Command for Instagram is an advanced Instagram analytics and tracking tool that empowers you to see very insightful stats on unlimited accounts. You can add your own accounts and research others to optimize and grow as much as possible. With over 5000 users, hundreds of 100k+ follower accounts, and dozens of celebrity users, we think you will really enjoy what this app has to offer. Here are some of our favorite features
 
 ###POST STATS
 - When to Post
