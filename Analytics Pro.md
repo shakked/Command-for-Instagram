@@ -19,12 +19,12 @@ The searching feature lets you look up public Instagram accounts and see analyti
 * View all of the following information about a user's posts:
   * When to Post (the user's personalized best time to post)
   * Graphs of their posts over time (Likes/Comments per day, week, month, year)
-  * Most Popular
-  * Most Liked
-  * Most Commented
-  * Most Embarrassing (Least likes and comments)
-  * Least Liked
-  * Least Commented
+  * Most Popular Posts
+  * Most Liked Posts
+  * Most Commented Posts
+  * Most Embarrassing Posts (Least likes and comments)
+  * Least Liked Posts
+  * Least Commented Posts
   * Top Hashtags (Which hashtags get this user the highest number of likes/comments)
   * Top Filters (Which filters get this user the highest number of likes/comments)
   * Best Weeks (posts organized into weekly blocks with like/comment totals, like/comment averages)
@@ -57,27 +57,27 @@ This feature lets you see which filters and hashtags are getting you the most li
 ##Following Tracker
 [Following Tracker Screencast](https://youtu.be/4yp_YWUqtPU?t=11m59s)
 
-Track who you follow and unfollow
+Track who you follow and unfollow. This is also usefule to detect when people have deleted their accounts. If you follow a user and they delete their account, the user will be appear in the Following Tracker as someone you unfollowed.
 
 ##Ghost Followers
 [Ghost Followers Screencast](https://youtu.be/4yp_YWUqtPU?t=10m45s)
 
-See followers who haven't engaged with any of your photos
+See followers who haven't engaged with any of your photos. If you want to assess how active your followers are, this is a great tool for that. For smaller, up and coming accounts, this can be insightful.
 
 ##Secret Admirers
 [Secret Admirers Screencast](https://youtu.be/4yp_YWUqtPU?t=11m18s)
 
-See users who have engaged with your photos but haven't followed you
+See users who have engaged with your photos but haven't followed you. This feature is a great help to users looking to grow their accounts. Follow them, reach out to them, message them and they might become followers.
 
 ##Global Best Time to Post
 [Global Best Time to Post Screencast](https://youtu.be/4yp_YWUqtPU?t=14m2s)
 
-We analyzed data on thousands of Instagram accounts to build this feature. It lets you see the best time to post in over 60 different countries and 110 different timezones. This is very useful if you have an international audience.
+We analyzed data on thousands of Instagram accounts to build this feature. It lets you see the best time to post in over 60 different countries and 110 different timezones. If your page has an international audience, it is useful to know the best times to post in different countries and timezones. Consider the following scenario: you have a substantial audience in Japan, but you are based out of Los Angeles. You found out that Americans are most active on Wednesdays/Thursdays at 4:00pm in the afternoon, but you want to target your Japanese audience this time. Using the global best time feature, you can see that the Japanese are most active on Instagram on Saturdays at 12:00pm local time. Then, you do the time conversion, see that 12:00pm Japanese time is 11:00pm Los Angeles time. Now, you've optimized your post for your Japanese audience.
 
 ##Global Top Filters
 [Global Top Filters Screencast](https://youtu.be/4yp_YWUqtPU?t=16m22s)
 
-We analyzed data on thousands of Instagram accounts to build this feature. It lets you see the top filters in over 60 different countries and 110 different timezones. 
+We analyzed data on thousands of Instagram accounts to build this feature. It lets you see the top filters in over 60 different countries and 110 different timezones. They say beauty is in the eye of the beholder, and let's be honest, not everybody is an Instagram visionary. You prefer to use Instagram filters rather than complex photo editing software because, well, it's just easier. You've been using the [filter analytic](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#top-hashtags-and-filters) to optimize your posts for your current audience, but you know that a lot of your followers are from European countries like the United Kingdom, Germany, and Italy. Aren't you curious what filters those countries like the most? With the Global Top Filters, you can view the data we've gather on these countries. You can see which filters tend to get the highest number of likes in each of those countries. Using this information, you can optimize your posts and get more overall likes and comments. 
 
 ##Global Top Hashtags
 [Global Top Hashtags Screencast](https://youtu.be/4yp_YWUqtPU?t=17m2s)
