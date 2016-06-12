@@ -11,6 +11,7 @@ __Features__
 * [Global Top Filters](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#global-top-filters)
 * [Global Top Hashtags](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#global-top-hashtags)
 * [Exporter](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#exporter)
+* [Tracking](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#tracking)
 * [Captions](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#captions)
 
 ##Searching
