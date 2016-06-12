@@ -11,6 +11,7 @@ __Features__
 * [Global Top Filters](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#global-top-filters)
 * [Global Top Hashtags](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#global-top-hashtags)
 * [Exporter](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#exporter)
+* [Captions](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#captions)
 
 ##Searching
 [Searching Screencast](https://youtu.be/4yp_YWUqtPU?t=21m28s)
@@ -122,3 +123,6 @@ Track up to 50 accounts with this feature. Not only can you track your own accou
 * Change in Comments - how many comments you are gaining/losing every hour
 
 Also, you can export any of the above data sets to .csv files that you can analyze in excel. All of the above data are displayed on interactive charts. You can change the units of the graph to be Days, Weeks, or Months. For example, instead seeing how many followers you are gaining/losing every hour, you can see how many you are gaining every day, week, or month.
+
+#Captions
+The captions module is designed for power users. Often times, businesses and influential accounts like to have a standardized format for their captions. They might add a series of hashtags at the end or they might include some important information about their product. In order to save time, these people often use tools like Evernote or Apple's Notes. The Captions module is an even better option. It was designed with efficiency in mind. Their is a 'Copy' button and an 'Open Instagram' button to speed up your workflow. There also various presets that can be used to design good looking captions. Lastly, we have a database of 100s of quotes to help spice up your captions.
