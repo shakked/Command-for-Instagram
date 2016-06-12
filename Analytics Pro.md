@@ -14,7 +14,7 @@ __Features__
 * [Captions](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#captions)
 
 ##Searching
-[Searching Screencast](https://youtu.be/4yp_YWUqtPU?t=21m28s)
+[Searching Screencast](https://youtu.be/4yp_YWUqtPU?t=21m50s)
 
 The searching feature lets you look up public Instagram accounts and see analytics on their posts. In the past, it was possible to see private accounts and information about their followers as well. On June 1st, 2016, Instagram revised their API so this is no longer possible. However, the searching feature still provides great functionality:
 * View all of the following information about a user's posts:
