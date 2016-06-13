@@ -84,7 +84,7 @@ We analyzed data on thousands of Instagram accounts to build this feature. It le
 ##Global Top Hashtags
 [Global Top Hashtags Screencast](https://youtu.be/4yp_YWUqtPU?t=17m2s)
 
-See the top hashtags in over 60 different countries and 110 different timezones.
+We analyzed data on thousands of Instagram accounts to build this feature. It lets you see the top hashtags in over 60 different countries and 110 different timezones. Truthfully, every country is different--rather, every city and town is different. If your company, brand, or audience is based out of LA, you will likely have very different hashtags than if your company was based out of London. Luckily, we analyze the top hashtags in different timezones and countries to help you better optimize your posts. If we notice that a certain hashtag is doing very well in one country, you'll be able to see that using this analytic. 
 
 ##Exporter
 [Exporter Screencast](https://youtu.be/4yp_YWUqtPU?t=19m22s)

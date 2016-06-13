@@ -1,0 +1,4 @@
+##Global Best Time to Post
+[Global Best Time to Post Screencast](https://youtu.be/4yp_YWUqtPU?t=14m2s)
+
+We analyzed data on thousands of Instagram accounts to build this feature. It lets you see the best time to post in over 60 different countries and 110 different timezones. If your page has an international audience, it is useful to know the best times to post in different countries and timezones. Consider the following scenario: you have a substantial audience in Japan, but you are based out of Los Angeles. You found out that Americans are most active on Wednesdays/Thursdays at 4:00pm in the afternoon, but you want to target your Japanese audience this time. Using the global best time feature, you can see that the Japanese are most active on Instagram on Saturdays at 12:00pm local time. Then, you do the time conversion, see that 12:00pm Japanese time is 11:00pm Los Angeles time. Now, you've optimized your post for your Japanese audience.
