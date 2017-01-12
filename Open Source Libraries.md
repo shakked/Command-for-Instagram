@@ -70,7 +70,7 @@ The following sets forth attribution notices for third party software that may b
 	THE SOFTWARE.
 
 [Charts](https://github.com/danielgindi/Charts)
-
+```
   Apache License
   Version 2.0, January 2004
   http://www.apache.org/licenses/
@@ -272,6 +272,7 @@ The following sets forth attribution notices for third party software that may b
   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   See the License for the specific language governing permissions and
   limitations under the License.
+```
 
 [ChimpKit3](https://github.com/mailchimp/ChimpKit3)
 
