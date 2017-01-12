@@ -72,8 +72,8 @@ The following sets forth attribution notices for third party software that may b
 [Charts](https://github.com/danielgindi/Charts)
 
   Apache License
-                     Version 2.0, January 2004
-                  http://www.apache.org/licenses/
+  Version 2.0, January 2004
+  http://www.apache.org/licenses/
 
   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
