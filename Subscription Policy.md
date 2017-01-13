@@ -1,5 +1,5 @@
 #Analytics Pro
-**[Analytics Pro](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md)** is a $9.99 ($4.99 for legacy subscribers) per month subcription that gives you access to the best features in Command for Instagram including:
+**[Analytics Pro](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md)** is a $9.99 ($4.99 for legacy subscribers) per month subscription that gives you access to the best features in Command for Instagram including:
 
 * Add unlimited Instagram accounts
 * When to Post
