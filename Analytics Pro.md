@@ -1,5 +1,5 @@
 #Analytics Pro
-This document explains all the features of an 'Analytics Pro' subscription which currentlys costs $4.99/month. Throughout the document I will reference a screencast I made for Command. In this screencast, you can see how specific features work. [Full Screencast](https://www.youtube.com/watch?v=4yp_YWUqtPU)
+This document explains all the features of an 'Analytics Pro' subscription which currentlys costs $9.99/month ($4.99/month for legacy users).
 
 __Features__
 * [Searching](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#searching)
@@ -15,7 +15,6 @@ __Features__
 * [Captions](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#captions)
 
 ##Searching
-[Searching Screencast](https://youtu.be/4yp_YWUqtPU?t=21m50s)
 
 The searching feature lets you look up public Instagram accounts and see analytics on their posts. In the past, it was possible to see private accounts and information about their followers as well. On June 1st, 2016, Instagram revised their API so this is no longer possible. However, the searching feature still provides great functionality:
 * View all of the following information about a user's posts:
@@ -52,42 +51,34 @@ The searching feature lets you look up public Instagram accounts and see analyti
   * Posts by Year Data
 
 ##Top Hashtags and Filters
-[Top Hashtags and Filters Screencast](https://youtu.be/4yp_YWUqtPU?t=4m5s)
 
 This feature lets you see which filters and hashtags are getting you the most likes and comments. That a business cannot see their hashtag or filter performance within Instagram is troubling. That's why I created this feature--so businesses could see how their hashtags and filters are doing over time.
 
 ##Following Tracker
-[Following Tracker Screencast](https://youtu.be/4yp_YWUqtPU?t=11m59s)
 
 Track who you follow and unfollow. This is also usefule to detect when people have deleted their accounts. If you follow a user and they delete their account, the user will be appear in the Following Tracker as someone you unfollowed.
 
 ##Ghost Followers
-[Ghost Followers Screencast](https://youtu.be/4yp_YWUqtPU?t=10m45s)
 
 See followers who haven't engaged with any of your photos. If you want to assess how active your followers are, this is a great tool for that. For smaller, up and coming accounts, this can be insightful.
 
 ##Secret Admirers
-[Secret Admirers Screencast](https://youtu.be/4yp_YWUqtPU?t=11m18s)
 
 See users who have engaged with your photos but haven't followed you. This feature is a great help to users looking to grow their accounts. Follow them, reach out to them, message them and they might become followers.
 
 ##Global Best Time to Post
-[Global Best Time to Post Screencast](https://youtu.be/4yp_YWUqtPU?t=14m2s)
 
 We analyzed data on thousands of Instagram accounts to build this feature. It lets you see the best time to post in over 60 different countries and 110 different timezones. If your page has an international audience, it is useful to know the best times to post in different countries and timezones. Consider the following scenario: you have a substantial audience in Japan, but you are based out of Los Angeles. You found out that Americans are most active on Wednesdays/Thursdays at 4:00pm in the afternoon, but you want to target your Japanese audience this time. Using the global best time feature, you can see that the Japanese are most active on Instagram on Saturdays at 12:00pm local time. Then, you do the time conversion, see that 12:00pm Japanese time is 11:00pm Los Angeles time. Now, you've optimized your post for your Japanese audience.
 
 ##Global Top Filters
-[Global Top Filters Screencast](https://youtu.be/4yp_YWUqtPU?t=16m22s)
 
 We analyzed data on thousands of Instagram accounts to build this feature. It lets you see the top filters in over 60 different countries and 110 different timezones. They say beauty is in the eye of the beholder, and let's be honest, not everybody is an Instagram visionary. You prefer to use Instagram filters rather than complex photo editing software because, well, it's just easier. You've been using the [filter analytic](https://github.com/shakked/Command-for-Instagram/blob/master/Analytics%20Pro.md#top-hashtags-and-filters) to optimize your posts for your current audience, but you know that a lot of your followers are from European countries like the United Kingdom, Germany, and Italy. Aren't you curious what filters those countries like the most? With the Global Top Filters, you can view the data we've gather on these countries. You can see which filters tend to get the highest number of likes in each of those countries. Using this information, you can optimize your posts and get more overall likes and comments. 
 
 ##Global Top Hashtags
-[Global Top Hashtags Screencast](https://youtu.be/4yp_YWUqtPU?t=17m2s)
 
 We analyzed data on thousands of Instagram accounts to build this feature. It lets you see the top hashtags in over 60 different countries and 110 different timezones. Truthfully, every country is different--rather, every city and town is different. If your company, brand, or audience is based out of LA, you will likely have very different hashtags than if your company was based out of London. Luckily, we analyze the top hashtags in different timezones and countries to help you better optimize your posts. If we notice that a certain hashtag is doing very well in one country, you'll be able to see that using this analytic. 
 
 ##Exporter
-[Exporter Screencast](https://youtu.be/4yp_YWUqtPU?t=19m22s)
 
 Use this feature to export all of the following analytics to .csv files for analysis:
  * Posts Data
@@ -109,7 +100,6 @@ Use this feature to export all of the following analytics to .csv files for anal
  * Gained Followings Data
  
 ##Tracking
-[Tracking Screencast](https://youtu.be/4yp_YWUqtPU?t=19m54s)
 
 Track up to 50 accounts with this feature. Not only can you track your own accounts, you can track any public account. See hourly stats on the following:
 * Followers - total number of followers
