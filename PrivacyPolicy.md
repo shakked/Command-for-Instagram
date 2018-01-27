@@ -1,54 +1,88 @@
-#Privacy Policy
-This policy is effective December 30th, 2015
-Last revised: February 18th, 2016
+# Shakd Apps
+## Privacy Policy
 
-This privacy policy governs your use of the software application **Command for Instagram - Follower Stats & Management, Posts, Likes & Comments Analytics** for mobile devices that was created by Zachary Shakked.
+Last Updated January 27, 2018
 
-Command Center for Instagram is an Instagram analytics tool to see very insightful analytics on as many accounts as you want. You can add your own accounts and research other accounts to optimize and grow as much as possible.
+Thank you for visiting Shakd, LLC and our Service (“Shakd Apps”). Your privacy is important to us. This notice explains our online information practices and the choices you can make about the way your information is used at our Service.
 
-##What information does the Application obtain and how is it used?
+## The Information We Collect
 
-The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
+We do not collect personally identifiable information about you - such as your name, address, telephone number, fax number, e-mail address, etc. – unless you choose to complete registration and become a Member.
 
-When you register with us and use the Application, you generally provide (a) email address, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help.
+We do automatically collect certain non-personally identifiable information when you visit our Service. We call this information “Anonymous Data”. Anonymous Data is non-personally identifiable information about your use or the aggregate use of all users that allows us to provide analytics and information on application or Instagram performance, trends, and other metrics that may be useful to users or us. Anonymous Data includes, but is not limited to, the type of browser you are using, the type of operating system you are using, the domain name of your Internet service provider (e.g. Comcast, Verizon FIOS, etc.), the country a mobile device is used in, the time zone of use, the type of mobile device, non-personally identifiable information about use or performance of an Instagram account, and similar information. 
 
-We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
+## How We Normally Use Information About You
 
-##Automatically Collected Information 
+We use non-personally identifiable information to analyze site usage, which allows us to improve the design and content of our site. These activities may include, but are not limited to:
 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application. 
+Administering, protecting, operating and maintaining the Service and our systems;
+Improving the navigation and content of our Service, system administration and security;
+Compiling aggregated statistics about the site usage and to better understand the preferences of our site visitors;
+Carrying out research and development to improve our services;
+Carrying out other legitimate business purposes, as well as other lawful purposes about which we will notify our visitors.
+Generating reports concerning hashtag use, Instagram trends, and other information about the Instagram environment.
 
-Does the Application collect precise real time location information of the device?
-This Application does not collect precise information about the location of your mobile device. 
+In the ordinary course, we use personally identifiable information you provide solely to respond to your inquiry or process an application form you have completed on various sections of our Service. These activities may include, but are not limited to:
 
-Do third parties see and/or have access to information obtained by the Application?
-Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service. We will share your information with third parties only in the ways that are described in this privacy statement.
+Responding to your specific inquiry or request and providing you with information and access to resources that you have requested from us;
+Processing and completing business transactions and sending related information, including transaction confirmations, document executions, invoices, and payments;
+Sending information to you about your account, technical alerts or updates, and other administrative or service-related communications;
+Helping personalize your experience on our Services (for example, we may use IP addresses to approximate your general location such as city and state for purposes such as to provide information on local promotions and events);
+Helping deliver our services to our visitors and providing customer service and support.
 
-We may disclose User Provided and Automatically Collected Information:
-• as required by law, such as to comply with a subpoena, or similar legal process;
-• when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-• with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-• if Zachary Shakked is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+We will not contact you about other matters, unless you specifically request it, nor will we share, rent, or sell your personally identifiable information outside Shakd Apps, except where we are required to share your information with any third parties who provide services on our behalf. 
 
-##What are my opt-out rights?
-You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at zach@shakd.io.
+However, it is possible, though unlikely, that we might be forced to disclose personally identifiable information in response to legal process or when we believe in good faith that the law requires it, for example, in response to a court order, subpoena or a law enforcement agency's request. 
 
-##Data Retention Policy, Managing Your Information
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 48 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at zach@shakd.io and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+Also, we cannot guarantee the privacy of personal information you transmit over the web or that may be collectable in transit by others, including third parties who provide services to us.
 
-##Children
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at zach@shakd.io. We will delete such information from our files within a reasonable time.
+## Revoking Consent to Collect or Use Information
 
-##Security
-We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+You may opt out of collection and use of personally identifiable information at your request at any time, but this may affect our ability to appropriately serve you. You may also access your profile upon request. We do not directly collect any information related to payment cards. For more on this please see the Security section below.
 
-##Changes
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy https://github.com/shakked/Command-Center/edit/master/PrivacyPolicy.md and informing you via email.
+## Sharing Information With Third Parties
 
-You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking here https://github.com/shakked/Command-Center/edit/master/PrivacyPolicy.md
+Shakd Apps may from time to time engage third parties to preserve, analyze or otherwise store or manipulate data received by Shakd Apps from its customers and to maintain records that allow us to efficiently communicate with you and provide, recommend appropriate services, execute documents, provide invoices, and collect payment. In all such cases, third party service providers will be required to treat all such data with the same degree of care as Shakd Apps and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy.
 
-##Your Consent
-By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards. 
+## Analytics & Advertising
 
-##Contact us
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at zach@shakd.io.
+We may use cookies (See “What Are Cookies” below) in order to facilitate the use of analytics tools and/or similar applications designed for measuring Service performance (collectively “Analytics”), with respect to our users. We may use personally identifiable information together with Analytics to track and analyze the web pages visitors visit so that we can better understand and improve our services.
+
+We do not deliver third party online advertisements on our Service, but we may use third-party advertising companies to serve ads for our services when you access and use other Services, based on the information relating to your access to and use of our Service, as well as information received from third parties. To do so, these companies may place or recognize a unique cookie on your browser (including through use of pixel tags).
+
+## Collection of Information by Third-Party Sites and Sponsors
+
+Our site contains links to other sites, including social media sites and applications, whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+
+## Security
+
+We take precautions to protect your information. We use commercially reasonable efforts to maintain a secure data environment, however we cannot guarantee the security of your personal information. Ordering online for a Shakd Apps product or service is secure and convenient. Our ordering process is protected by the Secure Sockets Layer ("SSL") protocol, which encrypts your information and confirms the identity of the Shakd Apps server before completing your transaction. Netscape Navigator 2.0 + (or better) and Internet Explorer 3.0+ (or better) support the SSL protocol. We recommend you use the latest browsers to ensure that you are protected by advances in security technology. Only input credit or debit card information in the appropriately marked places in our registration materials. Please do NOT include this information in any other communication on our Messaging Services or other communication.  
+
+## What are Cookies?
+
+A cookie is a piece of data stored on the user's mobile device or computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer's hard drive for an extended period of time. Your browser's help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by Shakd Apps to track user preferences while the User is visiting the Service. They also help to minimize load times and save on server processing. Persistent cookies may be used by Shakd Apps to store whether, for example, you want your password remembered or not, and other information. Cookies used on the Service do not contain personally identifiable information.
+
+## Disabling/enabling cookies
+
+You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled.  
+
+We may use cookies in the following ways:
+
+Where they are essential to make our site work
+To enable the personalization features on our Service
+To compile anonymous, aggregated statistics that allow us to understand how users use our Service and to help us improve the structure of our Service. We cannot identify you personally in this way.
+
+## Log Files
+
+Like most standard Services, we use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in our log files, including but not limited to IP addresses, is linked to personally identifiable information.
+
+## Revisions to our Privacy Policy
+
+We reserve the right to revise this policy or any part of it from time to time. Please review the policy periodically for changes. We will notify you of any material changes we make and you will have the opportunity to opt out at that time.
+
+## Contact
+
+Should you have any questions concerning this Privacy Policy, you may contact Shakd Apps.
+
+Shakd Apps
+zach@shakd.io
